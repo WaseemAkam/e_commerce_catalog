@@ -1,6 +1,2 @@
 node_modules/
 .env
-package-lock.jsongit rm --cached config/db.js
-git add .
-git commit -m "removed credentials"
-git push
